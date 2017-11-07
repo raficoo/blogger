@@ -24,7 +24,10 @@ a:hover {
 	text-decoration:underline
 }
 a img {
-	border-width:0
+	border-width:0;
+	border-width: 0;
+	max-width: 150px;
+	max-height: 218px;
 }
 #headerpic-wrapper {
 	background:#31353D;
